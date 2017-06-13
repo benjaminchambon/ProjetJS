@@ -1,0 +1,26 @@
+.div1{
+    float: left;
+}
+
+.div2{
+    float: left;
+    padding-left: 100px;
+}
+
+.informations{
+    border: 2px solid black;
+    text-align: left;
+}
+
+
+.historique {
+    border: 2px solid black;
+    text-align: left;
+    display: block;
+    border-collapse: collapse;
+    margin: 0;
+    width: 100%;
+    font-size: 1em;
+    color: #000000;
+    text-align: center;
+}

@@ -1,0 +1,95 @@
+.divTable{
+  width:800px;
+  margin:0 auto;
+}
+
+.cart {
+  display: block;
+  border-collapse: collapse;
+  margin: 0;
+  width: 100%;
+  font-size: 1.2em;
+  color: #000000;
+  text-align: center;
+}
+
+.productitm {
+  height: 65px;
+  line-height: 65px;
+  border-bottom: 1px solid #000000;
+}
+
+.thumb {
+  vertical-align: bottom;
+  border: 1px solid #ffffff;
+  margin-bottom: 4px;
+}
+
+.qtyinput {
+  width: 33px;
+  height: 22px;
+  border: 1px solid #a3b8d3;
+  background: #dae4eb;
+  color: #616161;
+  text-align: center;
+}
+
+.extracosts {
+  border-bottom: 1px solid #000000;
+  background: #d0d9f4;
+}
+
+.light {
+  color: #000000;
+  text-shadow: 1px 1px 0 rgb(91, 80, 53);
+  font-size: 1.1em;
+  font-weight: normal;
+}
+
+.totalprice {
+  border-bottom: 3px solid #000000;
+  height: 35px;
+  line-height: 50px;
+}
+
+.thick {
+  color: #272727;
+  font-size: 1.7em;
+  font-weight: bold;
+}
+
+
+.checkout {
+  background: #cfdae8;
+  border-top: 1px solid #abc0db;
+  border-bottom: 1px solid #abc0db;
+  padding: 12px 0;
+  padding-top: 20px;
+
+  text-align: center;
+}
+
+.photo{
+  width: 15px;
+}
+
+.quantity{
+  width: 200px;
+}
+
+.produit{
+  width: 450px;
+}
+
+.total{
+  width: 180px;
+}
+
+.remove{
+  width: 70px;
+}
+
+.prix{
+  width: 100px;
+}
+

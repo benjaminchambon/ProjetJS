@@ -1,0 +1,159 @@
+.mainContainer {
+    display: table-row;
+
+}
+
+.onglet {
+    background: #0e56a9;
+  /*  width: 20%;*/
+    width:200px;
+    height: 1500px;
+    display: table-cell;
+}
+
+.resultats {
+    display: table-cell;
+    overflow: hidden;
+    width: 80%;
+}
+
+.buttonGenre {
+    background: transparent;
+    width:300px;
+}
+.buttonTous {
+    background: transparent;
+    height: 2em;
+    width: 300px;
+}
+
+li a{
+    display: block;
+    padding: 8px 16px;
+    text-align: center;
+}
+
+.recherche {
+    height: 50px;
+    background: #2b303b;
+    border: none;
+    font-size: 10pt;
+    color: #ffffff;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    padding-left: 30px;
+}
+
+div ul li {
+    list_style-type: none;
+    display: block;
+    border-bottom: 1px solid #CCCCCC;
+}
+
+div a {
+    text-decoration: none;
+    color: White;
+}
+a{
+    width:260px;
+    text-align: center;
+}
+
+div ul li:hover {
+    background: #4097AD;
+}
+
+.menuButton,
+.menuButton ul {
+    list-style: none;
+    padding: 0;
+}
+
+.menuButton {
+    /* float: left;*/
+    margin: auto;
+    padding: 0;
+    width: 300px;
+}
+
+.menuButton > li {
+    /* float: left;*/
+}
+
+.menuButton li a {
+    display: block;
+    height: 2em;
+    line-height: 2em;
+    padding: 0 1.5em;
+    text-decoration: none;
+}
+
+.menuButton ul {
+    position: absolute;
+    display: none;
+    z-index: 999;
+}
+
+.menuButton ul li a {
+    /*  width: 80px;*/
+}
+
+.menuButton li:hover ul {
+    display: block;
+}
+
+.menuButton ul {
+  /*  background: #f09d28;*/
+    background: #2b303b;
+}
+
+.menuButton ul li a {
+    color: #000;
+}
+
+.menuButton ul li:hover a {
+    background: #ffc97c;
+}
+
+.baniere {
+    background-color: crimson;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 210px;
+}
+
+.btnPrev {
+    width: 50px;
+    margin: 0 auto;
+    padding: 0;
+    height: 50px;
+    text-align: center;
+}
+
+.btnNext {
+    width: 50px;
+    margin: 0 auto;
+    padding: 0;
+    height: 50px;
+    text-align: center;
+}
+
+.flecheG {
+    width: 20%;
+}
+
+.flecheD {
+    width: 20%;
+}
+
+.imgChange {
+    width: 20%;
+}
+.list_ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 300px;
+}
